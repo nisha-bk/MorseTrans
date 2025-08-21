@@ -22,7 +22,7 @@ Splash Screen: Animated logo with gradient background.
 
 Clone the repo:
 
-git clone https://github.com/MorseTrans.git
+git clone https://github.com/nisha-bk/MorseTrans.git
 
 
 Open MorseTrans.xcodeproj in Xcode.
